@@ -1,5 +1,25 @@
 # About Me:
-Hi, I’m Vaishnavi Mahawar 👩‍💻<br>A passionate Computer Science student and aspiring software developer who loves building useful and creative tech projects.<br><br>🎓 **Education:**<br>Currently pursuing my degree in Computer Science from UIT RGPV, Bhopal. I have a strong foundation in programming, problem-solving, and software development.<br><br>💻 **What I’m Working On:**<br>I enjoy building web and AI-based projects that solve real-life problems. Some of my notable projects include Resume Analyzer, AI Medical Voice Agent, and InterviewBuddy. I love turning ideas into practical applications.<br><br>🚀 **What I’m Looking For:**<br>I’m actively looking for internship and entry-level opportunities where I can grow as a developer, contribute to meaningful projects, and learn from experienced teams.<br><br>🛠 **Skills & Technologies:**<br>Java, Python, Data Structures & Algorithms, Web Development (HTML, CSS, JavaScript), Flutter, Firebase, UI Design<br><br>⚙️ **Tools & Platforms:**<br>Git & GitHub, VS Code, Android Studio, Figma, Firebase Console<br><br>📜 **Certifications:**<br>AWS, Deloitte, and Accenture certifications that strengthened my knowledge in cloud, development, and industry practices.<br>
+Hi, I’m Vaishnavi Mahawar 👩‍💻
+A passionate Electronics & Communication Engineering student and aspiring software developer who loves building useful and creative tech projects.
+
+🎓 **Education:**
+Currently pursuing B.Tech in Electronics & Communication Engineering from UIT RGPV, Bhopal. Along with my core branch, I have built a strong foundation in programming, problem-solving, and software development.
+
+💻 **What I’m Working On:**
+I enjoy building web and AI-based projects that solve real-life problems. Some of my notable projects include Resume Analyzer, AI Medical Voice Agent, and InterviewBuddy. I love turning ideas into practical and impactful applications.
+
+🚀 **What I’m Looking For:**
+I’m actively looking for internship and entry-level opportunities where I can grow as a developer, contribute to meaningful projects, and learn from experienced teams.
+
+🛠 **Skills & Technologies:**
+Java, Python, Data Structures & Algorithms, Web Development (HTML, CSS, JavaScript), Flutter, Firebase, UI Design
+
+⚙️ **Tools & Platforms:**
+Git & GitHub, VS Code, Android Studio, Figma, Firebase Console
+
+📜 **Certifications:**
+AWS, Deloitte, and Accenture certifications that strengthened my knowledge in cloud, development, and industry practices.
+
 
 
 # 💻 Tech Stack:
