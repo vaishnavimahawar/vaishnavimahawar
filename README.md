@@ -1,35 +1,57 @@
 # About Me:
-Hi, I’m Vaishnavi Mahawar 👩‍💻
-A passionate Electronics & Communication Engineering student and aspiring software developer who loves building useful and creative tech projects.
+ ---
+   Full-Stack Developer | React • Next.js • Java • Node.js
+   Building AI-integrated products • AWS Certified
+   
+   Projects: AI Medical Voice Agent | Resume Analyzer | InterviewBuddy
+   
+   💼 Open to Full-Stack/Backend roles in Bengaluru, Pune, Hyderabad
+   🔗 linkedin.com/in/vaishnavi-mahawar
+   📧 vaishnavimahawar21@gmail.com
+   ---
 
-🎓 **Education:**
-Currently pursuing B.Tech in Electronics & Communication Engineering from UIT RGPV, Bhopal. Along with my core branch, I have built a strong foundation in programming, problem-solving, and software development.
+# Hi there 👋 I'm Vaishnavi Mahawar
 
-💻 **What I’m Working On:**
-I enjoy building web and AI-based projects that solve real-life problems. Some of my notable projects include Resume Analyzer, AI Medical Voice Agent, and InterviewBuddy. I love turning ideas into practical and impactful applications.
+   **Full-Stack Developer | Building AI-Integrated Products**
 
-🚀 **What I’m Looking For:**
-I’m actively looking for internship and entry-level opportunities where I can grow as a developer, contribute to meaningful projects, and learn from experienced teams.
+   - 🎓 B.Tech Electronics & Communication Engineering @ UIT RGPV
+   - 💻 Self-taught developer — 3 internships, real-world experience
+   - 🚀 Passionate about shipping features that users love
+   - 📊 400+ DSA problems solved | AWS Certified
+   - 💼 Open to full-stack/backend roles in Bengaluru, Pune, Hyderabad
 
-🛠 **Skills & Technologies:**
-Java, Python, Data Structures & Algorithms, Web Development (HTML, CSS, JavaScript), Flutter, Firebase, UI Design
+   ## 🛠️ Tech Stack
+   "Frontend:" React, Next.js, TypeScript, Tailwind CSS, shadcn/ui
+   "Backend:" Node.js, Express, Java, Spring Boot
+   "Databases:" PostgreSQL, MongoDB, Redis
+   "DevOps:" Docker, AWS, GitHub Actions, Vercel
+   "Tools:" Git, Postman, Figma
 
-⚙️ **Tools & Platforms:**
-Git & GitHub, VS Code, Android Studio, Figma, Firebase Console
+   ## 🌟 Featured Projects
 
-📜 **Certifications:**
-AWS, Deloitte, and Accenture certifications that strengthened my knowledge in cloud, development, and industry practices.
+   ### [AI Medical Voice Agent](https://github.com/vaishnavimahawar/AI-Medical-Voice-Agent)
+   AI-powered healthcare assistant handling 500+ concurrent users with <300ms latency
+   - "Live:" [Demo Link]
+   - "Tech:" Next.js, React, TypeScript, PostgreSQL, OpenAI API
+   - "Highlights:" Real-time speech-to-text, GPT-4 analysis, 99.5% uptime
 
+   ### [Resume Analyzer](https://github.com/vaishnavimahawar/ResumeAnalyzer)
+   Full-stack SaaS for AI-powered resume evaluation (1000+ uploads)
+   - "Live:" [Demo Link]
+   - "Tech:" React 18, Node.js, Express, Google Gemini API
+   - "Highlights:" PDF parsing (<2s), 40% bundle size reduction
 
+   ### [InterviewBuddy](https://github.com/vaishnavimahawar/InterviewBuddy)
+   AI-powered interview preparation platform with NLP-based answer analysis
+   - "Tech:" Java, Spring Boot, PostgreSQL, TF-IDF, NLP
+   - "Highlights:" 100+ questions, 87% accuracy, 4.5/5 rating
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vaishnavimahawar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vaishnavimahawar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavimahawar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+   ## 📈 GitHub Stats
+   [Include GitHub stats badge from your README]
 
----
-[![](https://visitcount.itsvg.in/api?id=vaishnavimahawar&icon=0&color=0)](https://visitcount.itsvg.in)
+   ## 💬 Let's Connect
+   - "Email:" vaishnavimahawar21@gmail.com
+   - "LinkedIn:" linkedin.com/in/vaishnavi-mahawar
+   - "Phone:" +91-8109951491
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+   ---
